@@ -1,0 +1,11 @@
+ POST http://localhost:5000/api/leads
+ Content-Type: application/json
+ 
+ {
+  "name": "John Doe2",
+  "email": "john@example.com",
+  "company": "Acme Inc",
+  "message": "Looking for a demo"
+}
+
+##
